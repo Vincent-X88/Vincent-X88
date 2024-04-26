@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from South Africa</h3>
 
 
-- 💬 Ask me about **reactjs, java, python, c#**
+- 💬 Ask me about **reactjs, java, python, c#*
 
 - 📫 How to reach me **vxolani777@gmail.com**
 
