@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xolani Mavuso</h1>
-<h3 align="center">A passionate Full stack developer from South Africa</h3
+<h3 align="center">A passionate Full stack developer from South Africa</h3>
 
 
 - 💬 Ask me about **reactjs, java, python, c#**
